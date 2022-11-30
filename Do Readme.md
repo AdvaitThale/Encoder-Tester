@@ -32,10 +32,10 @@ Pinout for Orange 400PPR 2 Phase Encoder:
 
 
 Some additional details to design your own tester:
-*Accuracy = (360 / 2 * Resolution) * Degree of accuracy
+Accuracy = (360 / 2 * Resolution) * Degree of accuracy
 
 to get resolution,
-*Resolution(N) = 360 / Degree of rotation(I)
+Resolution(N) = 360 / Degree of rotation(I)
 
 Note:
 While measuring counts per revolution, we'll measure 2 rising and 2 falling edges. 
