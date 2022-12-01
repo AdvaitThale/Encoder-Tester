@@ -5,6 +5,11 @@
   *                   Incremental Encoder Counter                   *    
   *******************************************************************
   
+  This small code helps in examining whether the encoder is correctly outputting pulses.
+  Modify this code according to your need for different types of encoders with more pins labelled + & -.
+  Look for pinout on encoder or datasheet of encoder for pinout clarificaton.
+  
+  
   Pinout for Orange Incremental Encoder 400 PPR 2 Phase:
   +----------------------+
   |Vcc| Gnd |  A  |  B   |
